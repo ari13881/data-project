@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # ===== 설정: 본인 파일 경로로 수정 =====
-FILE_PATH = "https://drive.google.com/file/d/1qhuwR0JUfWbB1p_-ugFoVmdLFgjC0c3C/view?usp=drive_link"
+FILE_PATH = "파일명.csv"
 
 # ===== 1. 데이터 불러오기 =====
 # 한글 CSV는 인코딩 문제가 잦아서 utf-8 실패 시 cp949로 다시 시도
